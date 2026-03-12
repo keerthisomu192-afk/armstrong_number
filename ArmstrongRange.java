@@ -20,7 +20,7 @@ class ArmstrongRange
 		}
 		n=copy;
 		if(sum==n)
-			System.out.println(n);
+			System.out.println(n+" is armstrong ");
 		}
 
 
